@@ -1,0 +1,23 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=55183:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/LiamFriel/IdeaProjects/Orc'ed/out/production/Orc'ed Main
+You have 21 Intelligence.
+You have 15 Agility.
+You have 14 Strength.
+Total Damage to le Orc is 978.95135.
+You have 10 Intelligence.
+You have 13 Agility.
+You have 27 Strength.
+Total Damage to le Orc is 972.4251.
+
+Process finished with exit code 0
+
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=55267:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/LiamFriel/IdeaProjects/Orc'ed/out/production/Orc'ed Main
+You have 21 Intelligence.
+You have 14 Agility.
+You have 15 Strength.
+Total Damage to le Orc is 1059.4221.
+You have 10 Intelligence.
+You have 14 Agility.
+You have 26 Strength.
+Total Damage to le Orc is 1052.3594.
+
+Process finished with exit code 0
